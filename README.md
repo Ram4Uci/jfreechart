@@ -1,3 +1,16 @@
+=========
+
+Software Testing Project [ INFORMATICS 215 ]
+
+Ramkumar Rajabaskaran 85241493 rrajabas@uci.edu 
+
+To test the system on basis of :-
+1)  Preliminary testing and coverage 
+2)  Functional testing using JUint
+3)  Structural testing using static analyzer
+4)  Program Analysis using Daikon, JavaPathFinder and MuJava
+5)  Debugging to find ad fix bugs
+
 JFreeChart
 ==========
 
